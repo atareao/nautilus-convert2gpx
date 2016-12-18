@@ -1,0 +1,11 @@
+nautilus-convert2gpx (0.1.0-0extras14.04.0) trusty; urgency=low
+
+  * Ported to Trusty
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sun, 09 Mar 2014 20:33:04 +0100
+
+nautilus-convert2gpx (0.1.0-0extras13.04.0) raring; urgency=low
+
+  * First release
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 04 Jun 2013 09:40:36 +0200

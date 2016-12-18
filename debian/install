@@ -1,0 +1,2 @@
+src/nautilus-convert2gpx.py /usr/share/nautilus-python/extensions
+data/nautilus-convert2gpx.svg /usr/share/icons/gnome/scalable/apps
